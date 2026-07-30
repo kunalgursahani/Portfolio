@@ -13,9 +13,9 @@ document.getElementById('year').textContent = new Date().getFullYear();
 const posts = [
   {
     date: "Aug 2026",
-    title: "Why RAP is the only way to build on S/4HANA now",
-    excerpt: "A practical look at moving from classic BAdIs to CDS-based business objects.",
-    tag: "RAP",
+    title: "Joule Studio: AI-First Experience for Building",
+    excerpt: "https://www.youtube.com/playlist?list=PL3ZRUb1AKkpQLtk3CqfoystL-CjHCg5tD",
+    tag: "JOULE",
     url: "#"
   },
   {
